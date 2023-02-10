@@ -4,3 +4,4 @@ numpy==1.21.6
 opencv_python==4.3.0.38
 Pillow==9.4.0
 Werkzeug==2.2.2
+tensorflow==2.11.0
